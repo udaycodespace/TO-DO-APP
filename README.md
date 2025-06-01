@@ -23,12 +23,10 @@ Demo video will be uploaded soon. Stay tuned! 🎬
 
 Take a look at some sample outputs of the app in action:
 
-- [Add Task UI](https://example.com/screenshots/add-task.png) 🖼️  
+- [Add Task UI](https://github.com/udaycodespace/TO-DO-APP/blob/main/Drag%20and%20Drop%20Reordering.png) 🖼️  
 - [Drag and Drop Reordering](https://example.com/screenshots/drag-drop.png) 🖼️  
-- [Filter Completed Tasks](https://example.com/screenshots/filter-completed.png) 🖼️  
-- [Priority Tagging Preview](https://example.com/screenshots/priority-tag.png) 🖼️  
-
-> _Replace the above URLs with your actual screenshot links._
+- [Filter Completed Tasks](https://github.com/udaycodespace/TO-DO-APP/blob/main/Filter%20Completed%20Tasks%20.png) 🖼️  
+- [Priority Tagging Preview](https://github.com/udaycodespace/TO-DO-APP/blob/main/Priority%20Tagging%20Preview%20.png) 🖼️  
 
 ## Installation 🛠️
 
